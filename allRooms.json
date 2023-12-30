@@ -1,0 +1,13 @@
+{
+  "rooms": {
+    "test": {
+      "members": [],
+      "password": "test",
+      "admin": "user",
+      "banList": []
+    }
+  },
+  "roomNames": [
+    "test"
+  ]
+}
