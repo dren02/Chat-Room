@@ -1,5 +1,6 @@
-# Chat Room
-A simple real-time chat app built using Node, Socket.IO, jQuery, and vanilla JavaScript.
+# Chat Room 💬
+- A simple real-time chat app built using Node, Socket.IO, jQuery, and vanilla JavaScript
+- Users can send messages in real time, private message others, and manage interactions by banning or disabling users
 
 ## Collaboration 
 This project was a collaborative effort; I worked alongside @jazz-y.
